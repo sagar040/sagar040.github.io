@@ -13,6 +13,7 @@ html{
 body{
     text-align: center;
     font-family: Monospace;
+    background-color: #000;
 }
 ul{
     position: absolute;
